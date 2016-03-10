@@ -1,19 +1,19 @@
 # DISMATH_ProjectBonus_SamSamson987
 
 • DESIGN
-![S1](S1.jpg)
+![SRC1](SRC1.png)
 
 
 • BLOCKS
-![S2](S2.jpg)
-![S3](S3.jpg)
-![S4](S4.jpg)
+![SRC2](SRC2.png)
+![SRC3](SRC3.png)
+![SRC4](SRC4.png)
 
 • PHONE SCREENSHOT FORMAT
-![P1](P1.jpg)
+![C](C.jpg)
 
 • WHEN THE NUMBER IS FOUND
-![P2](P2.jpg)
+![F](F.jpg)
 
 • WHEN THE NUMBER IS NOT FOUND
-![P3](P3.jpg)
+![NF](NF.jpg)
